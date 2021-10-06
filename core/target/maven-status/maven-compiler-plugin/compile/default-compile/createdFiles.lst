@@ -1,0 +1,4 @@
+com\maththomaz\core\model\AbstractEntity.class
+com\maththomaz\core\model\Course$CourseBuilder.class
+com\maththomaz\core\repository\ICourseRepository.class
+com\maththomaz\core\model\Course.class
